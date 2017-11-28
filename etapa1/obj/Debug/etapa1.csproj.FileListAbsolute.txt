@@ -1,0 +1,318 @@
+c:\users\rick\documents\visual studio 2015\Projects\etapa1\etapa1\bin\Debug\etapa1.exe.config
+c:\users\rick\documents\visual studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+c:\users\rick\documents\visual studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.Form1.resources
+c:\users\rick\documents\visual studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+c:\users\rick\documents\visual studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (30-01-17)\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\etapa1 (06-02-17)v1\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa1 (08-02-17)\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa1 (08-02-17)\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa1 (08-02-17)\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.PasajerosVentana.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.PasajerosVentana.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa2\etapa2(13-02-17)\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v5(afterclass)\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\etapa3v1\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2 FINAL VERSION V2\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\TODAS\Etapa 2\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Debug\etapa1.ventanaGrafo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes - Nuevo grafo\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa4\Etapa 4 cagazero\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 apunte\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa5\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 5 cagazero\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 1 recalentado\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 2 recalentado\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 3 recalentado - Pruebas\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\bin\Debug\etapa1.exe
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\bin\Debug\etapa1.pdb
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\Rick\Desktop\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\bin\Debug\etapa1.exe
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\bin\Debug\etapa1.pdb
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.exe
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 4 recalentado\etapa1\obj\Debug\etapa1.pdb
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\bin\Debug\etapa1.exe.config
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\bin\Debug\etapa1.exe
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\bin\Debug\etapa1.pdb
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.adminVuelos.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.Asientos.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.DatosPersonales.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.Form1.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.adminPasajeros.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.FormGrafo.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.Properties.Resources.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.Vuelo.resources
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.csproj.GenerateResource.Cache
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.exe
+C:\Users\ricar\Documents\Universidad\Seminario Algoritmia\Etapa 5\etapa1\obj\Debug\etapa1.pdb

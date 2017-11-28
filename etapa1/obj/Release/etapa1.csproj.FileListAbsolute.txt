@@ -1,0 +1,28 @@
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\bin\Release\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\bin\Release\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\bin\Release\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.PasajerosVentana.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.csproj.GenerateResource.Cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Etapa2\etapa2v1\etapa1\obj\Release\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\bin\Release\etapa1.exe.config
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\bin\Release\etapa1.exe
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\bin\Release\etapa1.pdb
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.adminVuelos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.Asientos.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.DatosPersonales.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.Form1.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.adminPasajeros.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.Properties.Resources.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.ventanaGrafo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.Vuelo.resources
+C:\Users\Rick\Documents\Visual Studio 2015\Projects\Clases\Etapa3\Etapa 3 Apuntes\etapa1\obj\Release\etapa1.csproj.GenerateResource.Cache
